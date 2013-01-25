@@ -1,0 +1,4 @@
+EmailingPlugin
+==============
+
+CakePHP Emailing plugin
