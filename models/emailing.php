@@ -1,6 +1,6 @@
 <?php
 /**
- * 
+ * Emailing Class
  */
 class Emailing extends EmailingAppModel{
   
