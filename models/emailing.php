@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * 
+ */
 class Emailing extends EmailingAppModel{
   
   /**
